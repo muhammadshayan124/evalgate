@@ -1,0 +1,100 @@
+{"id": "q-n000", "input": "What should I know about a refund?", "expected": "d000", "tags": ["critical"]}
+{"id": "q-n001", "input": "What should I know about a invoice?", "expected": "d001", "tags": ["critical"]}
+{"id": "q-n002", "input": "What should I know about a warranty?", "expected": "d002", "tags": ["critical"]}
+{"id": "q-n003", "input": "What should I know about a shipment?", "expected": "d003", "tags": ["critical"]}
+{"id": "q-n004", "input": "What should I know about a password?", "expected": "d004", "tags": ["critical"]}
+{"id": "q-n005", "input": "What should I know about a account?", "expected": "d005", "tags": ["critical"]}
+{"id": "q-n006", "input": "What should I know about a receipt?", "expected": "d006", "tags": ["critical"]}
+{"id": "q-n007", "input": "What should I know about a coupon?", "expected": "d007", "tags": ["critical"]}
+{"id": "q-n008", "input": "What should I know about a subscription?", "expected": "d008", "tags": ["critical"]}
+{"id": "q-n009", "input": "What should I know about a cancellation?", "expected": "d009", "tags": ["critical"]}
+{"id": "q-n010", "input": "What should I know about a delivery?", "expected": "d010", "tags": []}
+{"id": "q-n011", "input": "What should I know about a exchange?", "expected": "d011", "tags": []}
+{"id": "q-n012", "input": "What should I know about a voucher?", "expected": "d012", "tags": []}
+{"id": "q-n013", "input": "What should I know about a balance?", "expected": "d013", "tags": []}
+{"id": "q-n014", "input": "What should I know about a deposit?", "expected": "d014", "tags": []}
+{"id": "q-n015", "input": "What should I know about a statement?", "expected": "d015", "tags": []}
+{"id": "q-n016", "input": "What should I know about a transfer?", "expected": "d016", "tags": []}
+{"id": "q-n017", "input": "What should I know about a deadline?", "expected": "d017", "tags": []}
+{"id": "q-n018", "input": "What should I know about a appointment?", "expected": "d018", "tags": []}
+{"id": "q-n019", "input": "What should I know about a reservation?", "expected": "d019", "tags": []}
+{"id": "q-n020", "input": "What should I know about a booking?", "expected": "d020", "tags": []}
+{"id": "q-n021", "input": "What should I know about a ticket?", "expected": "d021", "tags": []}
+{"id": "q-n022", "input": "What should I know about a license?", "expected": "d022", "tags": []}
+{"id": "q-n023", "input": "What should I know about a permit?", "expected": "d023", "tags": []}
+{"id": "q-n024", "input": "What should I know about a certificate?", "expected": "d024", "tags": []}
+{"id": "q-n025", "input": "What should I know about a registration?", "expected": "d025", "tags": []}
+{"id": "q-n026", "input": "What should I know about a enrollment?", "expected": "d026", "tags": []}
+{"id": "q-n027", "input": "What should I know about a membership?", "expected": "d027", "tags": []}
+{"id": "q-n028", "input": "What should I know about a complaint?", "expected": "d028", "tags": []}
+{"id": "q-n029", "input": "What should I know about a inquiry?", "expected": "d029", "tags": []}
+{"id": "q-n030", "input": "What should I know about a feedback?", "expected": "d030", "tags": []}
+{"id": "q-n031", "input": "What should I know about a survey?", "expected": "d031", "tags": []}
+{"id": "q-n032", "input": "What should I know about a review?", "expected": "d032", "tags": []}
+{"id": "q-n033", "input": "What should I know about a rating?", "expected": "d033", "tags": []}
+{"id": "q-n034", "input": "What should I know about a comment?", "expected": "d034", "tags": []}
+{"id": "q-n035", "input": "What should I know about a message?", "expected": "d035", "tags": []}
+{"id": "q-n036", "input": "What should I know about a notification?", "expected": "d036", "tags": []}
+{"id": "q-n037", "input": "What should I know about a reminder?", "expected": "d037", "tags": []}
+{"id": "q-n038", "input": "What should I know about a alert?", "expected": "d038", "tags": []}
+{"id": "q-n039", "input": "What should I know about a update?", "expected": "d039", "tags": []}
+{"id": "q-n040", "input": "What should I know about a upgrade?", "expected": "d040", "tags": []}
+{"id": "q-n041", "input": "What should I know about a backup?", "expected": "d041", "tags": []}
+{"id": "q-n042", "input": "What should I know about a archive?", "expected": "d042", "tags": []}
+{"id": "q-n043", "input": "What should I know about a export?", "expected": "d043", "tags": []}
+{"id": "q-n044", "input": "What should I know about a import?", "expected": "d044", "tags": []}
+{"id": "q-n045", "input": "What should I know about a download?", "expected": "d045", "tags": []}
+{"id": "q-n046", "input": "What should I know about a upload?", "expected": "d046", "tags": []}
+{"id": "q-n047", "input": "What should I know about a attachment?", "expected": "d047", "tags": []}
+{"id": "q-n048", "input": "What should I know about a document?", "expected": "d048", "tags": []}
+{"id": "q-n049", "input": "What should I know about a template?", "expected": "d049", "tags": []}
+{"id": "q-n050", "input": "What should I know about a contract?", "expected": "d050", "tags": []}
+{"id": "q-n051", "input": "What should I know about a agreement?", "expected": "d051", "tags": []}
+{"id": "q-n052", "input": "What should I know about a amendment?", "expected": "d052", "tags": []}
+{"id": "q-n053", "input": "What should I know about a extension?", "expected": "d053", "tags": []}
+{"id": "q-n054", "input": "What should I know about a renewal?", "expected": "d054", "tags": []}
+{"id": "q-n055", "input": "What should I know about a discount?", "expected": "d055", "tags": []}
+{"id": "q-n056", "input": "What should I know about a promotion?", "expected": "d056", "tags": []}
+{"id": "q-n057", "input": "What should I know about a rebate?", "expected": "d057", "tags": []}
+{"id": "q-n058", "input": "What should I know about a surcharge?", "expected": "d058", "tags": []}
+{"id": "q-n059", "input": "What should I know about a tariff?", "expected": "d059", "tags": []}
+{"id": "q-n060", "input": "What should I know about a quota?", "expected": "d060", "tags": []}
+{"id": "q-n061", "input": "What should I know about a allowance?", "expected": "d061", "tags": []}
+{"id": "q-n062", "input": "What should I know about a threshold?", "expected": "d062", "tags": []}
+{"id": "q-n063", "input": "What should I know about a limit?", "expected": "d063", "tags": []}
+{"id": "q-n064", "input": "What should I know about a penalty?", "expected": "d064", "tags": []}
+{"id": "q-n065", "input": "What should I know about a fine?", "expected": "d065", "tags": []}
+{"id": "q-n066", "input": "What should I know about a deduction?", "expected": "d066", "tags": []}
+{"id": "q-n067", "input": "What should I know about a claim?", "expected": "d067", "tags": []}
+{"id": "q-n068", "input": "What should I know about a policy?", "expected": "d068", "tags": []}
+{"id": "q-n069", "input": "What should I know about a premium?", "expected": "d069", "tags": []}
+{"id": "q-n070", "input": "What should I know about a benefit?", "expected": "d070", "tags": []}
+{"id": "q-n071", "input": "What should I know about a coverage?", "expected": "d071", "tags": []}
+{"id": "q-n072", "input": "What should I know about a exclusion?", "expected": "d072", "tags": []}
+{"id": "q-n073", "input": "What should I know about a deductible?", "expected": "d073", "tags": []}
+{"id": "q-n074", "input": "What should I know about a liability?", "expected": "d074", "tags": []}
+{"id": "q-n075", "input": "What should I know about a dispute?", "expected": "d075", "tags": []}
+{"id": "q-n076", "input": "What should I know about a appeal?", "expected": "d076", "tags": []}
+{"id": "q-n077", "input": "What should I know about a ruling?", "expected": "d077", "tags": []}
+{"id": "q-n078", "input": "What should I know about a hearing?", "expected": "d078", "tags": []}
+{"id": "q-n079", "input": "What should I know about a inspection?", "expected": "d079", "tags": []}
+{"id": "q-n080", "input": "What should I know about a audit?", "expected": "d080", "tags": []}
+{"id": "q-n081", "input": "What should I know about a report?", "expected": "d081", "tags": []}
+{"id": "q-n082", "input": "What should I know about a ledger?", "expected": "d082", "tags": []}
+{"id": "q-n083", "input": "What should I know about a journal?", "expected": "d083", "tags": []}
+{"id": "q-n084", "input": "What should I know about a budget?", "expected": "d084", "tags": []}
+{"id": "q-n085", "input": "What should I know about a forecast?", "expected": "d085", "tags": []}
+{"id": "q-n086", "input": "What should I know about a estimate?", "expected": "d086", "tags": []}
+{"id": "q-n087", "input": "What should I know about a quotation?", "expected": "d087", "tags": []}
+{"id": "q-v000", "input": "How do I reimburse something?", "expected": "v000", "tags": ["critical"]}
+{"id": "q-v001", "input": "How do I reschedule something?", "expected": "v001", "tags": ["critical"]}
+{"id": "q-v002", "input": "How do I redeem something?", "expected": "v002", "tags": []}
+{"id": "q-v003", "input": "How do I reactivate something?", "expected": "v003", "tags": []}
+{"id": "q-v004", "input": "How do I relocate something?", "expected": "v004", "tags": []}
+{"id": "q-v005", "input": "How do I reissue something?", "expected": "v005", "tags": []}
+{"id": "q-v006", "input": "How do I renegotiate something?", "expected": "v006", "tags": []}
+{"id": "q-v007", "input": "How do I reconcile something?", "expected": "v007", "tags": []}
+{"id": "q-v008", "input": "How do I resubmit something?", "expected": "v008", "tags": []}
+{"id": "q-v009", "input": "How do I reorder something?", "expected": "v009", "tags": []}
+{"id": "q-v010", "input": "How do I recharge something?", "expected": "v010", "tags": []}
+{"id": "q-v011", "input": "How do I reassign something?", "expected": "v011", "tags": []}

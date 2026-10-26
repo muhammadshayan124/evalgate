@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - run: pip install -e ".[dev]"
+      - run: ruff check src tests examples
+      - run: pytest -q
+      - name: The example gate behaves (pass the harmless change, block the regression)
+        run: |
+          for n in v1 v1_tuned v2_bug; do evalgate run --system examples.rag.systems:$n --cases examples/rag/cases.jsonl --scorers "hit@3,grounded" --out runs/$n.json; done
+          evalgate gate runs/v1.json runs/v1_tuned.json --policy examples/rag/gate.yml
+          ! evalgate gate runs/v1.json runs/v2_bug.json --policy examples/rag/gate.yml --markdown "$GITHUB_STEP_SUMMARY"

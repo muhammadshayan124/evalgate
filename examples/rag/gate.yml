@@ -1,0 +1,17 @@
+# Policy for the retrieval example. Read it as: "the candidate may be at most 2 points worse than the baseline on hit@3,
+# and we must be 95% confident of that; no critical question may regress; answers must stay grounded; no more than
+# 2% of calls may fail; p95 latency may grow by at most 50%."
+metrics:
+  - name: hit@3
+    margin: 0.02
+    min: 0.80
+    primary: true
+  - name: grounded
+    margin: 0.0
+alpha: 0.05
+min_cases: 30
+critical_tag: critical
+latency_p95_max_increase_pct: 400   # these systems take microseconds, so timer noise needs generous slack
+error_rate_max: 0.02
+flake_rate_max: 0.10
+expected_discordant_rate: 0.10
